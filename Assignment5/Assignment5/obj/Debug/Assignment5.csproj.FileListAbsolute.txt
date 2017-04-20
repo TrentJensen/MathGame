@@ -1,0 +1,13 @@
+C:\Users\Trent\OneDrive\Public\Weber CS\CS 3280 - C#\Assignments\Assignment5\Assignment5\bin\Debug\Assignment5.exe.config
+C:\Users\Trent\OneDrive\Public\Weber CS\CS 3280 - C#\Assignments\Assignment5\Assignment5\obj\Debug\Assignment5.csprojResolveAssemblyReference.cache
+C:\Users\Trent\OneDrive\Public\Weber CS\CS 3280 - C#\Assignments\Assignment5\Assignment5\obj\Debug\Assignment5.frmMainMenu.resources
+C:\Users\Trent\OneDrive\Public\Weber CS\CS 3280 - C#\Assignments\Assignment5\Assignment5\obj\Debug\Assignment5.frmUserData.resources
+C:\Users\Trent\OneDrive\Public\Weber CS\CS 3280 - C#\Assignments\Assignment5\Assignment5\obj\Debug\Assignment5.Properties.Resources.resources
+C:\Users\Trent\OneDrive\Public\Weber CS\CS 3280 - C#\Assignments\Assignment5\Assignment5\obj\Debug\Assignment5.csproj.GenerateResource.Cache
+C:\Users\Trent\OneDrive\Public\Weber CS\CS 3280 - C#\Assignments\Assignment5\Assignment5\bin\Debug\Assignment5.exe
+C:\Users\Trent\OneDrive\Public\Weber CS\CS 3280 - C#\Assignments\Assignment5\Assignment5\bin\Debug\Assignment5.pdb
+C:\Users\Trent\OneDrive\Public\Weber CS\CS 3280 - C#\Assignments\Assignment5\Assignment5\obj\Debug\Assignment5.exe
+C:\Users\Trent\OneDrive\Public\Weber CS\CS 3280 - C#\Assignments\Assignment5\Assignment5\obj\Debug\Assignment5.pdb
+C:\Users\Trent\OneDrive\Public\Weber CS\CS 3280 - C#\Assignments\Assignment5\Assignment5\obj\Debug\Assignment5.frmGame.resources
+C:\Users\Trent\OneDrive\Public\Weber CS\CS 3280 - C#\Assignments\Assignment5\Assignment5\obj\Debug\Assignment5.frmChooseGame.resources
+C:\Users\Trent\OneDrive\Public\Weber CS\CS 3280 - C#\Assignments\Assignment5\Assignment5\obj\Debug\Assignment5.frmHighScores.resources
